@@ -1,1 +1,8 @@
-
+You must understand your data in order to get the best results.
+1. Take a peek at your raw data.
+2. Review the dimensions of your dataset.
+3. Review the data types of attributes in your data.
+4. Summarize the distribution of instances across classes in your dataset.
+5. Summarize your data using descriptive statistics.
+6. Understand the relationships in your data using correlations.
+7. Review the skew of the distributions of each attribute.
