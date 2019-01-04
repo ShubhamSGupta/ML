@@ -1,1 +1,5 @@
-
+Automatic feature selection techniques that you can use to prepare your machine learning data in Python with scikit-learn:
+1. Univariate Selection.
+2. Recursive Feature Elimination.
+3. Principle Component Analysis.
+4. Feature Importance.
