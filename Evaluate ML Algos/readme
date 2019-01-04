@@ -1,1 +1,3 @@
-
+The evaluation is an estimate that we can use to talk about how well we think the algorithm may actually do in practice. It is not a 
+guarantee of performance. Once we estimate the performance of our algorithm, we can then re-train the final algorithm on the entire
+training dataset and get it ready for operational use.
